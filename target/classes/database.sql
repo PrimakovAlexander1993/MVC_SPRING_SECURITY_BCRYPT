@@ -36,7 +36,7 @@ CREATE TABLE user_roles
 
 -- Insert data
 INSERT INTO users
-VALUES (1, 'San', '$2a$10$q/LL/.ZpVfBeVZa6jjS4kex8Uy3nga3JTV.ZbbLlBkXNqLnfILreK', 'San@mail.ru'); -- SET PASSWORD = San
+VALUES (1, 'Alex', '$2a$10$q/LL/.ZpVfBeVZa6jjS4kex8Uy3nga3JTV.ZbbLlBkXNqLnfILreK', 'San@mail.ru'); -- SET PASSWORD = San
 INSERT INTO users
 VALUES (2, 'test', '$2a$10$xFBkgR.Pe45fZGdkM2rnaevYwFT6kNb/xsx9AsMWdcu7VEfGa3Wx6', 'test@test.ru'); -- SET PASSWORD = test
 INSERT INTO users
